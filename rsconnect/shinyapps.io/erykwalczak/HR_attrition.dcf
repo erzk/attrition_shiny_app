@@ -1,0 +1,13 @@
+name: HR_attrition
+title: HR_attrition
+username:
+account: erykwalczak
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1644529
+bundleId: 2719676
+url: https://erykwalczak.shinyapps.io/HR_attrition/
+when: 1578670509.20198
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: MAS_HR.R
